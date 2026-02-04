@@ -119,9 +119,9 @@ Solution: Added _redirects file in public/ with /* /index.html 200.
 
 Screenshots
 <img width="1851" height="953" alt="Screenshot 2026-02-04 125218" src="https://github.com/user-attachments/assets/1bb6421a-a29d-46ed-b6ca-a5601e75baf7" />
-<img width="1863" height="881" alt="Screenshot 2026-02-04 125456" src="https://github.com/user-attachments/assets/c6cd663c-a44c-443f-a7f1-3bcf340284b9" />
-<img width="1863" height="881" alt="Screenshot 2026-02-04 125456" src="https://github.com/user-attachments/assets/d3d0f1c0-da69-4549-92c2-e433a4ec627a" />
-<img width="1863" height="881" alt="Screenshot 2026-02-04 125456" src="https://github.com/user-attachments/assets/72254f9f-c950-4863-adaf-b36a92ba498a" />
+<img width="1897" height="942" alt="Screenshot 2026-02-04 125239" src="https://github.com/user-attachments/assets/2cac9de6-55dc-4b62-af03-a609e274c814" />
+<img width="1880" height="952" alt="Screenshot 2026-02-04 125435" src="https://github.com/user-attachments/assets/3ded2066-e6a9-4ed9-9207-3dc3382326eb" />
+<img width="1863" height="881" alt="Screenshot 2026-02-04 125456" src="https://github.com/user-attachments/assets/630617ec-d8ba-4cf4-ac0c-d62e9dcee010" />
 
 
 
