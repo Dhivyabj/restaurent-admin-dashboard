@@ -1,5 +1,7 @@
 Restaurant Admin Dashboard (MERN)
+
 📌 Project Overview
+
 A full‑stack Restaurant Admin Dashboard built with the MERN stack (MongoDB, Express, React, Node.js).
 It allows restaurant administrators to manage menu items, track orders, and monitor availability in real time.
 
@@ -12,8 +14,9 @@ It allows restaurant administrators to manage menu items, track orders, and moni
 - View all orders with pagination
 - Update order status (Pending → Ready → Delivered → Cancelled)
 - View detailed order information in modal
+-
 
-  - Dashboard
+ Dashboard
 - Overview of menu items and orders
 - Responsive design with Tailwind CSS
 - Deployment
@@ -28,9 +31,11 @@ Requirements
 - GitHub account
 - Netlify (for frontend deployment)
 - Render (for backend deployment)
+
+- 
 Installation Steps
 # Clone the repo
-git clone https://github.com/<your-username>/restaurant-admin-dashboard.git
+git clone https://github.com/dhivya-bj/restaurant-admin-dashboard.git
 
 # Navigate into client (frontend)
 cd client
@@ -103,6 +108,7 @@ Example Response:
 }
 
 Challenges Faced & Solutions
+
 - Issue: Netlify build failed due to missing package.json.
 Solution: Set base directory to client and publish directory to dist.
 - Issue: Render backend failed with exit code 254.
@@ -110,7 +116,15 @@ Solution: Point Render root directory to server and set correct start command (n
 - Issue: Refreshing routes broke frontend.
 Solution: Added _redirects file in public/ with /* /index.html 200.
 
+
 Screenshots
 <img width="1851" height="953" alt="Screenshot 2026-02-04 125218" src="https://github.com/user-attachments/assets/1bb6421a-a29d-46ed-b6ca-a5601e75baf7" />
+<img width="1863" height="881" alt="Screenshot 2026-02-04 125456" src="https://github.com/user-attachments/assets/c6cd663c-a44c-443f-a7f1-3bcf340284b9" />
+<img width="1863" height="881" alt="Screenshot 2026-02-04 125456" src="https://github.com/user-attachments/assets/d3d0f1c0-da69-4549-92c2-e433a4ec627a" />
+<img width="1863" height="881" alt="Screenshot 2026-02-04 125456" src="https://github.com/user-attachments/assets/72254f9f-c950-4863-adaf-b36a92ba498a" />
+
+
+
+
 
 
